@@ -1,0 +1,4 @@
+﻿  数组.cpp
+c:\users\黄佳丽\desktop\学习文件\c++\实践课\大实验\大实验\数组.cpp(153): warning C4244: “初始化”: 从“std::streamoff”转换到“int”，可能丢失数据
+  大实验.vcxproj -> C:\Users\黄佳丽\Desktop\学习文件\C++\实践课\大实验\Debug\大实验.exe
+  大实验.vcxproj -> C:\Users\黄佳丽\Desktop\学习文件\C++\实践课\大实验\Debug\大实验.pdb (Full PDB)
